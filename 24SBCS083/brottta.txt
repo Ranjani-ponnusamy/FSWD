@@ -1,0 +1,28 @@
+<html>
+<h1>BROTTTA</h1>
+<body>
+<h2><center><b>BROTTTA</b></center></h2>
+<i><center>since 2025</center></i>
+<br>
+
+STARTERS
+<BR>
+<br>Tawa chicken[quarter/half/full]     100/200/400
+<br>chicken chukka                      130
+<br>pepper chicken dry                  130
+<br>
+<br>BROTTTA
+<BR>
+<br>Bun  25
+<br>nool 35
+<br>veg kothu 80<br>
+
+<p>GRAVY</p>
+<p>pepper chicken gravy  160</p>
+<p>chettinad chiocken gravy 160</p>
+<p>kadai chicken gravy 160</p>
+<br>
+</center><img src="C:\24SBCS083\sample.jpg"</center>
+
+</body>
+</html>
